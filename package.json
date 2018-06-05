@@ -1,0 +1,22 @@
+{
+  "name": "06-tcp-server",
+  "version": "1.0.0",
+  "description": "TCP chatroom / 401 Lab 06",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubMaxwell/06-tcp-server.git"
+  },
+  "author": "Maxwell Rediker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubMaxwell/06-tcp-server/issues"
+  },
+  "homepage": "https://github.com/GitHubMaxwell/06-tcp-server#readme",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
